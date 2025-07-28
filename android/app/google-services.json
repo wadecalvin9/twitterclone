@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "1079609668557",
+    "project_id": "socialflow-f4c9a",
+    "storage_bucket": "socialflow-f4c9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079609668557:android:780180176ce73381df8a84",
+        "android_client_info": {
+          "package_name": "com.beef.nothreads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhl_pRBDPTjv9wcGwktJRq6rRPv9-NoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079609668557-1t8ku5doardsea8uuhaq84i796hhucn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ilvplcpc01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079609668557:android:b10cbb8eccd72375df8a84",
+        "android_client_info": {
+          "package_name": "com.mycompany.ilvplcpc01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhl_pRBDPTjv9wcGwktJRq6rRPv9-NoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079609668557-1t8ku5doardsea8uuhaq84i796hhucn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ilvplcpc01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079609668557:android:302488e59d242358df8a84",
+        "android_client_info": {
+          "package_name": "com.mycompany.threadsaclonebynomocodes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhl_pRBDPTjv9wcGwktJRq6rRPv9-NoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079609668557-1t8ku5doardsea8uuhaq84i796hhucn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ilvplcpc01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079609668557:android:bc6ed9a2a2767846df8a84",
+        "android_client_info": {
+          "package_name": "com.mycompany.voguetnc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhl_pRBDPTjv9wcGwktJRq6rRPv9-NoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079609668557-1t8ku5doardsea8uuhaq84i796hhucn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ilvplcpc01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079609668557:android:b9fd3b2cbbfb3c30df8a84",
+        "android_client_info": {
+          "package_name": "com.socialflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079609668557-dlij76f3t1k8gd1n2o27uih5hlud62ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialflow",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1079609668557-du7sg1gmi0qm1dll36l2pk6gan4rfvbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialflow",
+            "certificate_hash": "670c24fb76878c8af5773dd3687830f2b482187c"
+          }
+        },
+        {
+          "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhl_pRBDPTjv9wcGwktJRq6rRPv9-NoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079609668557-f1vclcj6emp4ftgf59glopscn4g8d2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079609668557-1t8ku5doardsea8uuhaq84i796hhucn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ilvplcpc01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
